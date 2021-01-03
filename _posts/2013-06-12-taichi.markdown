@@ -1,0 +1,53 @@
+---
+layout: post
+title: "T'ai Chi Series -- 太极"
+
+date: 2013-06-12
+description:
+image: assets/images/taichi/3.png
+
+author: Nan Wang
+tags:
+  - Projects
+---
+
+<div class="section-padding bg-white" align="center">
+T'ai Chi Series originated from the spirit of T'ai Chi aesthetics and ancient T'ai Chi beauty remedies. The pattern is inspired by a variety of precious and rare Chinese traditional herbsare in its products. The structure of it is designed as the Chinese style screen.
+</div>
+
+<div class="section-padding" align="center">
+<img source type="img/png" src="{{ "assets/images/taichi/1.png" | relative_url }}"/>
+</div>
+
+<div class="section-padding bg-white">
+Exhibition: LUXE PACK, China
+Sale exceeded 100 million ¥
+</div>
+
+<div class="section-padding" align="center">
+<img source type="img/png" src="{{ "assets/images/taichi/2.png" | relative_url }}"/>
+</div>
+
+<div class="section-padding" align="center">
+<img source type="img/png" src="{{ "assets/images/taichi/3.png" | relative_url }}"/>
+</div>
+
+<div class="section-padding" align="center">
+<img source type="img/png" src="{{ "assets/images/taichi/4.png" | relative_url }}"/>
+</div>
+
+<div class="section-padding" align="center">
+<img source type="img/png" src="{{ "assets/images/taichi/5.png" | relative_url }}"/>
+</div>
+
+<div class="section-padding" align="center">
+<img source type="img/jpg" src="{{ "assets/images/taichi/6.jpg" | relative_url }}"/>
+</div>
+
+<div class="section-padding" align="center">
+<img source type="img/jpg" src="{{ "assets/images/taichi/7.jpg" | relative_url }}"/>
+</div>
+
+<div class="section-padding" align="center">
+<img source type="img/jpg" src="{{ "assets/images/taichi/8.jpg" | relative_url }}"/>
+</div>

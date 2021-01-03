@@ -4,7 +4,7 @@ title: "Fresh Herb"
 
 date: 2021-01-01
 description:
-image: assets/images/freshHerb/freshHerb_01.jpg
+image: assets/images/freshHerb/freshHerb_04.jpg
 
 author: Nan Wang
 tags:

@@ -1,0 +1,56 @@
+---
+layout: post
+title: "‘HERBORIST’, 15th ANNIVERSARY SET"
+
+date: 2013-09-05
+description:
+image: assets/images/herborist15/3.png
+
+author: Nan Wang
+tags:
+  - Projects
+---
+
+<div class="section-padding bg-white" align="center">
+
+
+The iconic buildings and city flowers of the six overseas international cities where Herborist is stationed are outlined with a fresh hand-painted style. Abundant use of colors, delicate line tracing, and the perfect presentation of city landmarks vividly portray a new world of oriental beauty created by Herborist.
+
+</div>
+
+<div class="section-padding" align="center">
+<img source type="img/png" src="{{ "assets/images/herborist15/1.png" | relative_url }}"/>
+</div>
+
+<div class="section-padding" align="center">
+<img source type="img/png" src="{{ "assets/images/herborist15/7.png" | relative_url }}"/>
+</div>
+
+<div class="section-padding bg-white">
+Exhibition: LUXE PACK, China
+Award: APD (Asian Packaging Design) Gold Award
+Shanghai Jahwa Innovation Project Award
+Best selling product in Shanghai Jahwa, 2013
+Sale exceeded 100 million ¥
+</div>
+
+<div class="section-padding" align="center">
+<img source type="img/jpg" src="{{ "assets/images/herborist15/8.jpg" | relative_url }}"/>
+</div>
+
+
+<div class="section-padding" align="center">
+<img source type="img/png" src="{{ "assets/images/herborist15/2.png" | relative_url }}"/>
+</div>
+
+<div class="section-padding" align="center">
+<img source type="img/png" src="{{ "assets/images/herborist15/3.png" | relative_url }}"/>
+</div>
+
+<div class="section-padding" align="center">
+<img source type="img/png" src="{{ "assets/images/herborist15/4.png" | relative_url }}"/>
+</div>
+
+<div class="section-padding" align="center">
+<img source type="img/png" src="{{ "assets/images/herborist15/5.png" | relative_url }}"/>
+</div>
