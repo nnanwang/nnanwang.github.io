@@ -4,7 +4,7 @@ title: "Love Letter 9"
 date: 2020-07-08
 description:
 image: assets/images/letter/0708.png
-author: L
+author: Nan Wang
 tags:
   - Love Letters
 ---

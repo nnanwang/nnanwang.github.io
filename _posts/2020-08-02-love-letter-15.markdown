@@ -4,7 +4,7 @@ title: "Love Letter 15"
 date: 2020-08-02
 description:
 image: assets/images/letter/0802.png
-author: L
+author: Nan Wang
 tags:
   - Love Letters
 ---

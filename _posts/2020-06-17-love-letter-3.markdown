@@ -4,7 +4,7 @@ title: "Love Letter 3"
 date: 2020-06-17
 description:
 image: assets/images/letter/0617.png
-author: L
+author: Nan Wang
 tags:
   - Love Letters
 ---
