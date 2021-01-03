@@ -1,0 +1,41 @@
+# Site/SEO settings
+baseurl: ""
+url:
+permalink: /stories/:title/
+google_analytics:
+
+name: Nan Wang
+title: Nan Wang
+
+google_analytics:
+
+include: ["_pages","_sass"]
+
+# Author settings
+author: Nan Wang
+
+
+sass:
+  style: compressed
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-paginate-v2
+  - jekyll-sitemap
+compress_html:
+  clippings: all
+  comments: all
+  startings: [html, head, body]
+
+
+exclude:
+  - node_modules
+  - .DS_Store
+  - barber.jpg
+  - Gemfile
+  - Gemfile.lock
+  - gulpfile.js
+  - package.json
+  - README.md
+  - vendor

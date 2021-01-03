@@ -1,0 +1,18 @@
+---
+layout: post
+title: "Tonight"
+permalink: /kisses/
+date: 2020-08-25
+description:
+image: assets/images/withu/tonight.png
+video: assets/images/withu/tonight.mp4
+author: L & W
+tags:
+  - With You
+---
+
+<div>
+      <video controls autoplay>
+        <source type="video/mp4" src="{{ "assets/images/withu/tonight.mp4" | relative_url }}">
+      </video>
+</div>
