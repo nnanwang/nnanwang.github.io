@@ -16,7 +16,7 @@ permalink: /
 <div class="posts">
   <div class="grid-xlarge">
     <h2 class="cta__text">
-      <span>Our Stories</span>
+      <span>My Projects</span>
     </h2>
 
     <div class="posts__container" data-columns>
