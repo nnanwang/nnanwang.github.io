@@ -1,0 +1,67 @@
+---
+layout: post
+title: "epai Cafe"
+
+date: 2012-01-01
+description:
+image: assets/images/epai/2.png
+
+author: Nan Wang
+tags:
+  - Projects
+---
+
+<div class="section-padding bg-white" align="center">
+The packages are designed for french style cafe. The fascinating hand drawing is inspired by the romantic scene through the streets of Paris.
+</div>
+
+<div class="section-padding" align="center">
+<img source type="img/png" src="{{ "assets/images/epai/1.png" | relative_url }}"/>
+</div>
+
+<div class="section-padding bg-white">
+Exhibition: Excellent Graduation Design Exhibition, China
+China (Shanghai) Bakery Exhibition, China
+Award: Excellent Graduation Design Award, China
+</div>
+
+<div class="section-padding" align="center">
+<img source type="img/png" src="{{ "assets/images/epai/2.png" | relative_url }}"/>
+</div>
+
+<div class="section-padding" align="center">
+<img source type="img/png" src="{{ "assets/images/epai/3.png" | relative_url }}"/>
+</div>
+
+<div class="section-padding" align="center">
+<img source type="img/png" src="{{ "assets/images/epai/4.png" | relative_url }}"/>
+</div>
+
+<div class="section-padding" align="center">
+<img source type="img/png" src="{{ "assets/images/epai/5.png" | relative_url }}"/>
+</div>
+
+<div class="section-padding" align="center">
+<img source type="img/png" src="{{ "assets/images/epai/6.png" | relative_url }}"/>
+</div>
+
+<div class="section-padding" align="center">
+<img source type="img/png" src="{{ "assets/images/epai/7.png" | relative_url }}"/>
+</div>
+
+<div class="section-padding" align="center">
+<img source type="img/png" src="{{ "assets/images/epai/8.png" | relative_url }}"/>
+</div>
+
+<div class="section-padding" align="center">
+<img source type="img/png" src="{{ "assets/images/epai/9.png" | relative_url }}"/>
+</div>
+
+
+<div class="section-padding" align="center">
+<img source type="img/png" src="{{ "assets/images/epai/10.png" | relative_url }}"/>
+</div>
+
+<div class="section-padding" align="center">
+<img source type="img/png" src="{{ "assets/images/epai/11.png" | relative_url }}"/>
+</div>
