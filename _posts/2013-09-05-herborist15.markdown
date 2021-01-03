@@ -4,7 +4,7 @@ title: "‘HERBORIST’, 15th ANNIVERSARY SET"
 
 date: 2013-09-05
 description:
-image: assets/images/herborist15/3.png
+image: assets/images/Herborist15/3.png
 
 author: Nan Wang
 tags:
@@ -19,11 +19,11 @@ The iconic buildings and city flowers of the six overseas international cities w
 </div>
 
 <div class="section-padding" align="center">
-<img source type="img/png" src="{{ "assets/images/herborist15/1.png" | relative_url }}"/>
+<img source type="img/png" src="{{ "assets/images/Herborist15/1.png" | relative_url }}"/>
 </div>
 
 <div class="section-padding" align="center">
-<img source type="img/png" src="{{ "assets/images/herborist15/7.png" | relative_url }}"/>
+<img source type="img/png" src="{{ "assets/images/Herborist15/7.png" | relative_url }}"/>
 </div>
 
 <div class="section-padding bg-white">
@@ -35,22 +35,22 @@ Sale exceeded 100 million ¥
 </div>
 
 <div class="section-padding" align="center">
-<img source type="img/jpg" src="{{ "assets/images/herborist15/8.jpg" | relative_url }}"/>
+<img source type="img/jpg" src="{{ "assets/images/Herborist15/8.jpg" | relative_url }}"/>
 </div>
 
 
 <div class="section-padding" align="center">
-<img source type="img/png" src="{{ "assets/images/herborist15/2.png" | relative_url }}"/>
+<img source type="img/png" src="{{ "assets/images/Herborist15/2.png" | relative_url }}"/>
 </div>
 
 <div class="section-padding" align="center">
-<img source type="img/png" src="{{ "assets/images/herborist15/3.png" | relative_url }}"/>
+<img source type="img/png" src="{{ "assets/images/Herborist15/3.png" | relative_url }}"/>
 </div>
 
 <div class="section-padding" align="center">
-<img source type="img/png" src="{{ "assets/images/herborist15/4.png" | relative_url }}"/>
+<img source type="img/png" src="{{ "assets/images/Herborist15/4.png" | relative_url }}"/>
 </div>
 
 <div class="section-padding" align="center">
-<img source type="img/png" src="{{ "assets/images/herborist15/5.png" | relative_url }}"/>
+<img source type="img/png" src="{{ "assets/images/Herborist15/5.png" | relative_url }}"/>
 </div>
