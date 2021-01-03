@@ -12,7 +12,7 @@ permalink: /
 </div>
 </section>
 
-<section id="stories" style="background-color: #f4f4f4;">
+<section id="projects" style="background-color: #f4f4f4;">
 <div class="posts">
   <div class="grid-xlarge">
     <h2 class="cta__text">
@@ -34,8 +34,8 @@ permalink: /
 </section>
 
 
-<section id="kiss" class="cta bg-black">
-  <a class="cta__link" href="{{ '/kisses/' | prepend: site.baseurl }}">
+<section id="waving" class="cta bg-black">
+  <a class="cta__link" href="{{ '/wl/' | prepend: site.baseurl }}">
     <span class="cta__text">Let’s Waving</span>
   </a>
 </section>

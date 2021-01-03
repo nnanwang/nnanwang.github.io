@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tonight"
-permalink: /kisses/
+permalink: /wl/
 date: 2020-08-25
 description:
 image: assets/images/withu/tonight.png
