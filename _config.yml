@@ -8,7 +8,6 @@ name: Nan Wang
 title: Nan Wang
 
 google_analytics:
-
 include: ["_pages","_sass"]
 
 # Author settings
