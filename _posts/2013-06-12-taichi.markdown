@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "T'ai Chi Series -- 太极"
+title: "T'ai Chi Series - 太极"
 
 date: 2013-06-12
 description:

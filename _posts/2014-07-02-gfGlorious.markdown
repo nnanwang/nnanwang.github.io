@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GF -- Glorious Anti-aging Series"
+title: "GF - Glorious Anti-aging Series"
 
 date: 2014-07-02
 description:
