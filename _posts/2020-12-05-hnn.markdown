@@ -44,9 +44,6 @@ The product is designed for home healthcare which can help old people and kids t
 <img source type="img/png" src="{{ "assets/images/Hnn/5.png" | relative_url }}"/>
 </div>
 
-<div class="section-padding" align="center">
-<img source type="img/png" src="{{ "assets/images/Hnn/6.png" | relative_url }}"/>
-</div>
 
 <div class="section-padding" align="center">
 <img source type="img/png" src="{{ "assets/images/Hnn/7.png" | relative_url }}"/>
