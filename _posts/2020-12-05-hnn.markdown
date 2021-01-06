@@ -1,0 +1,57 @@
+---
+layout: post
+title: "HINOUNOU, Home Wellness"
+
+date: 2020-12-05
+description:
+image: assets/images/Hnn/4.png
+
+author: Nan Wang
+tags:
+  - Projects
+---
+
+<div class="section-padding bg-white" align="center">
+
+
+The product is designed for home healthcare which can help old people and kids to track their health.
+
+</div>
+
+<div class="section-padding" align="center">
+<img source type="img/png" src="{{ "assets/images/Hnn/1.png" | relative_url }}"/>
+</div>
+
+<div class="section-padding" align="center">
+<img source type="img/png" src="{{ "assets/images/Hnn/2.png" | relative_url }}"/>
+</div>
+
+
+<div class="section-padding" align="center">
+<img source type="img/png" src="{{ "assets/images/Hnn/9.png" | relative_url }}"/>
+</div>
+
+
+<div class="section-padding" align="center">
+<img source type="img/png" src="{{ "assets/images/Hnn/3.png" | relative_url }}"/>
+</div>
+
+<div class="section-padding" align="center">
+<img source type="img/png" src="{{ "assets/images/Hnn/4.png" | relative_url }}"/>
+</div>
+
+<div class="section-padding" align="center">
+<img source type="img/png" src="{{ "assets/images/Hnn/5.png" | relative_url }}"/>
+</div>
+
+<div class="section-padding" align="center">
+<img source type="img/png" src="{{ "assets/images/Hnn/6.png" | relative_url }}"/>
+</div>
+
+<div class="section-padding" align="center">
+<img source type="img/png" src="{{ "assets/images/Hnn/7.png" | relative_url }}"/>
+</div>
+
+<div class="section-padding" align="center">
+<img source type="img/png" src="{{ "assets/images/Hnn/8.png" | relative_url }}"/>
+</div>

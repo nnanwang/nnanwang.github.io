@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "‘HERBORIST’, 15th ANNIVERSARY SET"
+title: "HERBORIST, 15th ANNIVERSARY SET"
 
 date: 2013-09-05
 description:
