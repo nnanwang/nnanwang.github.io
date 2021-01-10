@@ -33,5 +33,5 @@ Designed for sister brand of INOHERB. The sprightly design shows the vitality an
 
 
 <div class="section-padding" align="center">
-<img source type="img/png" src="{{ "assets/imagesyeguoHnn/4.png" | relative_url }}"/>
+<img source type="img/png" src="{{ "assets/images/yeguo/4.png" | relative_url }}"/>
 </div>
