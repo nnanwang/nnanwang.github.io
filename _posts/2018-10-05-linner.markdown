@@ -1,0 +1,26 @@
+---
+layout: post
+title: "Serving Linner, KFC"
+
+date: 2018-10-05
+description:
+image: assets/images/linner/2.png
+
+author: Nan Wang
+tags:
+  - Projects
+---
+
+
+<div class="section-padding" align="center">
+<img source type="img/png" src="{{ "assets/images/linner/1.png" | relative_url }}"/>
+</div>
+
+<div class="section-padding" align="center">
+<img source type="img/png" src="{{ "assets/images/linner/2.png" | relative_url }}"/>
+</div>
+
+
+<div class="section-padding" align="center">
+<img source type="img/png" src="{{ "assets/images/linner/3.png" | relative_url }}"/>
+</div>
