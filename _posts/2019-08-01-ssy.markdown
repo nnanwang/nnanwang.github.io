@@ -1,0 +1,42 @@
+---
+layout: post
+title: "三十一生"
+
+date: 2019-08-01
+description:
+image: assets/images/ssy/4.png
+
+author: Nan Wang
+tags:
+  - Projects
+---
+
+
+<div class="section-padding" align="center">
+<img source type="img/png" src="{{ "assets/images/ssy/1.png" | relative_url }}"/>
+</div>
+
+<div class="section-padding bg-white" align="center">
+
+</div>
+
+<div class="section-padding" align="center">
+<img source type="img/png" src="{{ "assets/images/ssy/2.png" | relative_url }}"/>
+</div>
+
+<div class="section-padding" align="center">
+<img source type="img/png" src="{{ "assets/images/ssy/3.png" | relative_url }}"/>
+</div>
+
+
+<div class="section-padding" align="center">
+<img source type="img/png" src="{{ "assets/images/ssy/4.png" | relative_url }}"/>
+</div>
+
+<div class="section-padding" align="center">
+<img source type="img/png" src="{{ "assets/images/ssy/5.png" | relative_url }}"/>
+</div>
+
+<div class="section-padding" align="center">
+<img source type="img/png" src="{{ "assets/images/ssy/6.png" | relative_url }}"/>
+</div>

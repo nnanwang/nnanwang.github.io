@@ -1,0 +1,60 @@
+---
+layout: post
+title: "Brand Upgrade, YuMeiJin"
+
+date: 2016-12-01
+description:
+image: assets/images/ymj/2.png
+
+author: Nan Wang
+tags:
+  - Projects
+---
+
+
+<div class="section-padding" align="center">
+<img source type="img/png" src="{{ "assets/images/ymj/1.png" | relative_url }}"/>
+</div>
+
+<div class="section-padding bg-white" align="center">
+YUMEIJING is a widely known brand for kids and baby skincare with over 41 years history. I upgrade the key brand icon which is a cute girl graphic. And I designed packages with the new design style and new icon.
+
+Brand website: http://www.ymj.cn
+Baby cream was the best seller in 2016, which sold exceeded 100 million ¥
+
+</div>
+
+<div class="section-padding" align="center">
+<img source type="img/png" src="{{ "assets/images/ymj/2.png" | relative_url }}"/>
+</div>
+
+<div class="section-padding" align="center">
+<img source type="img/png" src="{{ "assets/images/ymj/3.png" | relative_url }}"/>
+</div>
+
+
+<div class="section-padding" align="center">
+<img source type="img/png" src="{{ "assets/images/ymj/4.png" | relative_url }}"/>
+</div>
+
+<div class="section-padding" align="center">
+<img source type="img/png" src="{{ "assets/images/ymj/5.png" | relative_url }}"/>
+</div>
+
+<div class="section-padding" align="center">
+<img source type="img/png" src="{{ "assets/images/ymj/6.png" | relative_url }}"/>
+</div>
+
+<div class="section-padding" align="center">
+<img source type="img/png" src="{{ "assets/images/ymj/7.png" | relative_url }}"/>
+</div>
+<div class="section-padding" align="center">
+<img source type="img/png" src="{{ "assets/images/ymj/8.png" | relative_url }}"/>
+</div>
+
+<div class="section-padding" align="center">
+<img source type="img/png" src="{{ "assets/images/ymj/9.png" | relative_url }}"/>
+</div>
+<div class="section-padding" align="center">
+<img source type="img/png" src="{{ "assets/images/ymj/10.png" | relative_url }}"/>
+</div>

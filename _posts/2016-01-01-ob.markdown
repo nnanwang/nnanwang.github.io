@@ -1,0 +1,48 @@
+---
+layout: post
+title: "Oriental Beauty, Makeup Product"
+
+date: 2016-01-01
+description:
+image: assets/images/ob/2.png
+
+author: Nan Wang
+tags:
+  - Projects
+---
+
+
+<div class="section-padding" align="center">
+<img source type="img/png" src="{{ "assets/images/ob/1.png" | relative_url }}"/>
+</div>
+
+<div class="section-padding bg-white" align="center">
+
+Designed for the whole makeup packages for brand. The concept of graphic design is Chinese Qiang embroidery. The medallion pattern means good wishes and auspicious in Chinese tradional culture.
+
+</div>
+
+<div class="section-padding" align="center">
+<img source type="img/png" src="{{ "assets/images/ob/2.png" | relative_url }}"/>
+</div>
+
+<div class="section-padding bg-white" align="center">
+Exhibition:Excellent Graduation Design Exhibition, China
+The Future of Sweets, Germany
+Summer Fancy Food Show, American
+Award: Excellent Graduation Design Award, China
+</div>
+
+<div class="section-padding" align="center">
+<img source type="img/png" src="{{ "assets/images/ob/3.png" | relative_url }}"/>
+</div>
+
+
+<div class="section-padding" align="center">
+<img source type="img/png" src="{{ "assets/images/ob/4.png" | relative_url }}"/>
+</div>
+
+
+<div class="section-padding" align="center">
+<img source type="img/png" src="{{ "assets/images/ob/5.png" | relative_url }}"/>
+</div>

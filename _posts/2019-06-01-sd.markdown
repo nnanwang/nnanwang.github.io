@@ -1,0 +1,35 @@
+---
+layout: post
+title: "尚德, Tea Package"
+
+date: 2019-06-01
+description:
+image: assets/images/sd/2.png
+
+author: Nan Wang
+tags:
+  - Projects
+---
+
+
+<div class="section-padding" align="center">
+<img source type="img/png" src="{{ "assets/images/sd/1.png" | relative_url }}"/>
+</div>
+
+<div class="section-padding bg-white" align="center">
+This is designed for Chinese high-end tea. Chinese ink painting and special printing technique are used in packaging design.
+
+</div>
+
+<div class="section-padding" align="center">
+<img source type="img/png" src="{{ "assets/images/sd/2.png" | relative_url }}"/>
+</div>
+
+<div class="section-padding" align="center">
+<img source type="img/png" src="{{ "assets/images/sd/3.png" | relative_url }}"/>
+</div>
+
+
+<div class="section-padding" align="center">
+<img source type="img/png" src="{{ "assets/images/sd/4.png" | relative_url }}"/>
+</div>

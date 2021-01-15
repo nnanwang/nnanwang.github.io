@@ -1,0 +1,42 @@
+---
+layout: post
+title: "Kids Meal, Pizza Hut"
+
+date: 2020-07-01
+description:
+image: assets/images/phkids/2.png
+
+author: Nan Wang
+tags:
+  - Projects
+---
+
+
+<div class="section-padding" align="center">
+<img source type="img/png" src="{{ "assets/images/phkids/1.png" | relative_url }}"/>
+</div>
+
+<div class="section-padding bg-white" align="left">
+
+The crockery set is designed for Kid meal set in Pizza Hut restaurant. I designed it with design agency Ivie and managed the product development with material techniques. The novelty rocket shape can make kids very curious and enjoy their meals. Plus, each separate part can be used as bowl or plate, which make cooks working more efficient.  
+</div>
+<div class="section-padding bg-white" align="left">
+Patent admission is in process
+</div>
+<div class="section-padding" align="center">
+<img source type="img/png" src="{{ "assets/images/phkids/2.png" | relative_url }}"/>
+</div>
+
+<div class="section-padding" align="center">
+<img source type="img/png" src="{{ "assets/images/phkids/3.png" | relative_url }}"/>
+</div>
+
+
+<div class="section-padding" align="center">
+<img source type="img/png" src="{{ "assets/images/phkids/4.png" | relative_url }}"/>
+</div>
+
+
+<div class="section-padding" align="center">
+<img source type="img/png" src="{{ "assets/images/phkids/5.png" | relative_url }}"/>
+</div>

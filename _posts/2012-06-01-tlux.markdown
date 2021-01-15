@@ -1,0 +1,49 @@
+---
+layout: post
+title: "Luxury Product"
+
+date: 2012-06-01
+description:
+image: assets/images/tlux/2.png
+
+author: Nan Wang
+tags:
+  - Projects
+---
+
+
+<div class="section-padding" align="center">
+<img source type="img/png" src="{{ "assets/images/tlux/1.png" | relative_url }}"/>
+</div>
+
+<div class="section-padding bg-white" align="center">
+
+Designed for luxury products.
+
+Exhibition:
+Modern Chinese Packages Design, Germany
+LUXE PACK, China
+
+
+</div>
+
+<div class="section-padding" align="center">
+<img source type="img/png" src="{{ "assets/images/tlux/2.png" | relative_url }}"/>
+</div>
+
+<div class="section-padding" align="center">
+<img source type="img/png" src="{{ "assets/images/tlux/3.png" | relative_url }}"/>
+</div>
+
+
+<div class="section-padding" align="center">
+<img source type="img/png" src="{{ "assets/images/tlux/4.png" | relative_url }}"/>
+</div>
+
+<div class="section-padding" align="center">
+<img source type="img/png" src="{{ "assets/images/tlux/5.png" | relative_url }}"/>
+</div>
+
+<div class="section-padding" align="center">
+<img source type="img/png" src="{{ "assets/images/tlux/6.png" | relative_url }}"/>
+</div>

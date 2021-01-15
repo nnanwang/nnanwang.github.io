@@ -1,0 +1,38 @@
+---
+layout: post
+title: "Steak Crockery Set, Pizza Hut"
+
+date: 2020-08-01
+description:
+image: assets/images/phsteak/4.png
+
+author: Nan Wang
+tags:
+  - Projects
+---
+
+
+<div class="section-padding" align="center">
+<img source type="img/png" src="{{ "assets/images/phsteak/1.png" | relative_url }}"/>
+</div>
+
+<div class="section-padding bg-white" align="center">
+
+There are two parts of the set, which are strengthen porcelain plate and wooden tray. The strengthen porcelain plate can be used in commercial oven as bakeware in very high temperature.
+</div>
+<div class="section-padding bg-white" align="center">
+Award: Pizza Hut Brand Recognition Award, China
+</div>
+
+<div class="section-padding" align="center">
+<img source type="img/png" src="{{ "assets/images/phsteak/2.png" | relative_url }}"/>
+</div>
+
+<div class="section-padding" align="center">
+<img source type="img/png" src="{{ "assets/images/phsteak/3.png" | relative_url }}"/>
+</div>
+
+
+<div class="section-padding" align="center">
+<img source type="img/png" src="{{ "assets/images/phsteak/4.png" | relative_url }}"/>
+</div>
