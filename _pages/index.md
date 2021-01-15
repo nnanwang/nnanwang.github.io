@@ -7,7 +7,7 @@ permalink: /
 <section id="#" class="cont" style="background-color: #fff;">
 <div class="grid">
   <div>
-    <span class="cta__text">I am Nan Wang. Designer, Engineer and Entrepreneur.</span>
+    <span class="cta__text">Hi, I am Nan Wang. A Designer, Engineer and Entrepreneur.</span>
   </div>
 </div>
 </section>
@@ -15,7 +15,7 @@ permalink: /
 <section id="projects" style="background-color: #f4f4f4;">
 <div class="posts">
   <div class="grid-xlarge">
-    <h2 class="cta__text">
+    <h2 class="post_title">
       <span>My Projects</span>
     </h2>
 

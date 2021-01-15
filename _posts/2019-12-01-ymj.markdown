@@ -4,7 +4,7 @@ title: "Brand Upgrade, YuMeiJin"
 
 date: 2016-12-01
 description:
-image: assets/images/ymj/8.png
+image: assets/images/ymj/2.png
 
 author: Nan Wang
 tags:
