@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HINOUNOU, Home Wellness"
+title: "Hinounou, Home Healthcare Device"
 
 date: 2020-12-05
 description:
