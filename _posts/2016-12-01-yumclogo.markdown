@@ -4,8 +4,8 @@ title: "Packaging Innovation, Yum China"
 
 date: 2019-12-01
 description:
-image: assets/images/yumclogo/2.png
-
+image: assets/images/yumclogo/6.png
+highlight: 1
 author: Nan Wang
 tags:
   - Projects

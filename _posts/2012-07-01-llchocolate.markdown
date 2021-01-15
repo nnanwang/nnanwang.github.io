@@ -2,10 +2,10 @@
 layout: post
 title: "Love Impression, Chocolate Packages"
 
-date: 2020-07-01
+date: 2012-07-01
 description:
 image: assets/images/llchocolate/2.png
-
+highlight: 3
 author: Nan Wang
 tags:
   - Projects

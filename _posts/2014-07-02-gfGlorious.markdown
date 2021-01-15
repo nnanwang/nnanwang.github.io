@@ -5,7 +5,7 @@ title: "GF - Glorious Anti-aging Series"
 date: 2014-07-02
 description:
 image: assets/images/gfGlorious/3.jpg
-
+highlight: 3
 author: Nan Wang
 tags:
   - Projects

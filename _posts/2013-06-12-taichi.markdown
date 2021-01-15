@@ -5,7 +5,7 @@ title: "T'ai Chi Series - 太极"
 date: 2013-06-12
 description:
 image: assets/images/taichi/3.png
-
+highlight: 10
 author: Nan Wang
 tags:
   - Projects

@@ -16,12 +16,12 @@ permalink: /
 <div class="posts">
   <div class="grid-xlarge">
     <h2 class="post_title">
-      <span>My Projects</span>
+      <span>Selected Projects</span>
     </h2>
 
     <div class="posts__container" data-columns>
-
-      {% for post in site.posts %}
+      {% assign sorted_projects = site.posts | sort: 'highlight' %}
+      {% for post in sorted_projects %}
 
         <!-- The tag below includes the markup for each post - partials/post-card.html -->
         {% include post-card.html %}

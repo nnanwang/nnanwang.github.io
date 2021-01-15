@@ -5,7 +5,7 @@ title: "HERBORIST, 15th ANNIVERSARY SET"
 date: 2013-09-05
 description:
 image: assets/images/herborist_15/3.png
-
+highlight: 10
 author: Nan Wang
 tags:
   - Projects
