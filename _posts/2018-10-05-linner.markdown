@@ -20,6 +20,11 @@ tags:
 <img source type="img/png" src="{{ "assets/images/linner/2.png" | relative_url }}"/>
 </div>
 
+<div class="section-padding bg-white" align="center">
+I designed the liner for reused basket, and managed the development of KFC reused basket with my team. The liner and reused basket are designed for reducing the large use of disposable packagings, which can make efforts for sustainability. The KFC restaurants in China are expected to save 2000 tons of paper and reduce 20% of waste in average every year.  Meanwhile, the efficiency of service and dining experience will also be enhanced.
+</div>
+
+
 
 <div class="section-padding" align="center">
 <img source type="img/png" src="{{ "assets/images/linner/3.png" | relative_url }}"/>

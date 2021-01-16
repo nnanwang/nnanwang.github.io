@@ -20,7 +20,11 @@ tags:
 <img source type="img/png" src="{{ "assets/images/eyemask/2.png" | relative_url }}"/>
 </div>
 
+<div class="section-padding bg-white" align="center">
+The painting describes a vivid picture of a oriental woman with beautiful headwears. The mainly plant ingredient are smartly designed as headwears.
 
+Award: Shanghai Inoherb Innovation Award, China
+</div>
 
 
 <div class="section-padding" align="center">
