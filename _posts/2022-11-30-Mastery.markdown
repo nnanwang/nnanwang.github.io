@@ -1,0 +1,53 @@
+---
+layout: post
+title: "Mastery, Learning/Specs Grading/Peer Review App"
+
+date: 2022-12-8
+description:
+image: assets/images/Mastery/11.png
+highlight: 0
+author: Nan Wang
+tags:
+  - Projects
+---
+
+<div class="section-padding bg-white" align="center">
+
+Collaborated with my professor and team to develop and improve the full-stack web application, Mastery. It allowed students to practice and test their skills, in order to fully absorb their knowledge from classes.
+Numerous Brandeis University classes have made use of the application.
+
+
+
+
+</div>
+
+<div class="section-padding" align="center">
+<span>Home Page</span>
+<img source type="img/png" src="{{ "assets/images/Mastery/11.png" | relative_url }}"/>
+</div>
+
+<div class="section-padding" align="center">
+<span>Problem Set - answerable version</span>
+<img source type="img/png" src="{{ "assets/images/Mastery/mastery.png" | relative_url }}"/>
+</div>
+
+<div class="section-padding" align="center">
+<span>Problem Set - unanswerable version</span>
+<img source type="img/png" src="{{ "assets/images/Mastery/3.png" | relative_url }}"/>
+</div>
+
+<div class="section-padding" align="center">
+<span>Problem Set - peer review version</span>
+<img source type="img/png" src="{{ "assets/images/Mastery/4.png" | relative_url }}"/>
+</div>
+
+<div class="section-padding" align="center">
+<span>Grading Page - TA review</span>
+<img source type="img/png" src="{{ "assets/images/Mastery/2.png" | relative_url }}"/>
+</div>
+
+
+
+
+
+

@@ -8,13 +8,19 @@ source "https://rubygems.org"
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-gem "jekyll", "~> 3.8.5"
 #gem "kramdown", ">= 2.3.0"
 # If you have any plugins, put them here!
 group :jekyll_plugins do
-  gem "jekyll-paginate-v2"
+  gem "jekyll-feed"
+  gem "jekyll-mentions"
+  gem "webrick"
+  gem "jekyll-redirect-from"
   gem "jekyll-sitemap"
+  gem "jekyll-avatar"
+  gem "jemoji"
+  gem "jekyll-paginate-v2"
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
+

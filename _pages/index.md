@@ -4,10 +4,10 @@ pagination:
   enabled: true
 permalink: /
 ---
-<section id="#" class="cont" style="background-color: #fff;">
-<div class="grid">
+<section id="#" class="cont" style="background-color:rgb(234, 204, 206); ">
+<div class="grid" >
   <div>
-    <span class="cta__text">Hi, I am Nan Wang. A Designer, Engineer and Entrepreneur.</span>
+    <span class="cta__text" >Hi, I am Nan Wang. A Designer, Engineer and Entrepreneur.</span>
   </div>
 </div>
 </section>
@@ -35,7 +35,7 @@ permalink: /
 
 
 <section id="waving" class="cta bg-black">
-  <a class="cta__link" href="{{ '/wl/' | prepend: site.baseurl }}">
+  <a class="cta__link" style="background-color: rgb(234, 204, 206)" href="{{ '/wl/' | prepend: site.baseurl }}">
     <span class="cta__text">Let’s Waving</span>
   </a>
 </section>

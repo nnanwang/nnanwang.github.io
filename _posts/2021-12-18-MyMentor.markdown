@@ -1,0 +1,37 @@
+---
+layout: post
+title: "MyMentor, Social Network App"
+
+date: 2021-12-18
+description:
+image: assets/images/MyMentor/front.png
+highlight: 0
+author: Nan Wang
+tags:
+  - Projects
+---
+
+<div class="section-padding bg-white" align="center">
+
+
+MyMentor is a social network for current university students to connect, share academic, career, and social experiences, and learn.
+
+</div>
+
+<div class="section-padding" align="center">
+<img source type="img/png" src="{{ "assets/images/MyMentor/11.png" | relative_url }}"/>
+</div>
+
+<div class="section-padding" align="center">
+<img source type="img/png" src="{{ "assets/images/MyMentor/1.png" | relative_url }}"/>
+</div>
+
+<div class="section-padding" align="center">
+<img source type="img/png" src="{{ "assets/images/MyMentor/2.png" | relative_url }}"/>
+</div>
+
+<div class="section-padding" align="center">
+<img source type="img/png" src="{{ "assets/images/MyMentor/3.png" | relative_url }}"/>
+</div>
+
+
