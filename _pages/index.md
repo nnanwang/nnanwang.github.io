@@ -130,12 +130,13 @@ body {
 </head>
 <body>
 <section id="#" class="cont" style="wdith:100%; background-color:rgb(234, 204, 206); height:600px">
+  <div class="grid-xlarge">
   <div style="display: flex">
       <!-- <section style="margin-left:70px; margin-right:10px"><img style="width:400px;" 
       src="assets/images/logo/22.png" />
       </section> -->
       <section class="center" style="margin-left:90px; "><img style="width:400px;" 
-      src="assets/images/logo/por-01.png" />
+      src="assets/images/logo/por-01.png">
       </section>
       <section class="cta__text" style="margin-right:0px; margin-top:20px; font-size:70px; font-family:Apercu">
       <span>Hi, I am Nan Wang.</span> <br>
@@ -144,12 +145,14 @@ body {
       and <span style="color:white">E</span>ntrepreneur.
       </section>
   </div>
+  </div>
 </section>
 
 <!-- resume -->
-<div style="display: flex; margin-left:100px">
+<div class="grid-xlarge">
+<div style="display: flex; ">
 <div class="timeline" >
-<span style="font-family:Roboto; font-size:20px; color:rgb(218, 162, 171)">EXPERIENCE</span>
+<span style="font-family:Apercu; font-size:20px; color:rgb(218, 162, 171)">EXPERIENCE</span>
 <br>
   <div class="container right">
     <div class="content">
@@ -176,10 +179,10 @@ body {
     </div>
   </div>
 </div>
-<section style=" margin-right:200px">
-<span style=" font-family:Roboto; font-size:20px; color:rgb(218, 162, 171)">SKILLS</span>
+<section style=" margin-left:20px">
+<span style="font-family:Apercu; font-size:20px; color:rgb(218, 162, 171)">SKILLS</span>
 <div class="container">
-  <p style="font-size:16px; font-family:Roboto; margin-top:10px"><strong>Programming</strong></p>
+  <p style="font-size:16px; margin-top:10px"><strong>Programming</strong></p>
   <div class="progress" style="width:100%">
     <div class="progress-bar" role="progressbar" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100" 
     style="width:85%; background-color:rgba(234, 204, 206, 0.5)">
@@ -187,7 +190,7 @@ body {
     </div>
   </div>
   <p style="margin-top:-15px; color:rgb(130, 130, 130); font-size:12px">Java, Python, HTML/CSS, JavaScript, NodeJS, SQL, Git, Blender, jQuery</p>
-  <p style="font-size:16px; font-family:Roboto;"><strong>UX/UI Product Design</strong></p>
+  <p style="font-size:16px; "><strong>UX/UI Product Design</strong></p>
   <div class="progress">
     <div class="progress-bar" role="progressbar" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100" 
     style="width:95%; background-color:rgba(234, 204, 206, 1.1)">
@@ -195,7 +198,7 @@ body {
     </div>
   </div>
   <p style="margin-top:-15px; color:rgb(130, 130, 130); font-size:12px">Photoshop, Illustrator, InDesign, Rhinoceros, Keyshot, 3Dmax, SolidWorks, Painter </p>
-  <p style="font-size:16px; font-family:Roboto;"><strong>Engineering</strong></p>
+  <p style="font-size:16px"><strong>Engineering</strong></p>
   <div class="progress">
     <div class="progress-bar" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" 
     style="width:80%; background-color:rgba(234, 204, 206, 0.5)">
@@ -203,7 +206,7 @@ body {
     </div>
   </div>
   <p style="margin-top:-15px; color:rgb(130, 130, 130); font-size:12px">Prototype development, Material/Printing/3D techniques,  Manufacturing Corporation </p>
-  <p style="font-size:16px; font-family:Roboto;"><strong>Leadership & Management</strong></p>
+  <p style="font-size:16px; "><strong>Leadership & Management</strong></p>
   <div class="progress">
     <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" 
     style="width:90%; background-color:rgba(234, 204, 206, 1.1)">
@@ -215,58 +218,57 @@ body {
 </section>
 </div>
 
-<div class="honors" style="display: flex; margin-top:25px;  margin-bottom:50px">
-<div class="awards" style="max-width: 1000px;">
- <span style="margin-left:200px; font-family:Roboto; font-size:20px; color:rgb(218, 162, 171)">SELECTED AWARDS
- <span style="font-family:Roboto; font-size:12px; color:rgb(218, 162, 171)">(3/18)</span>
+<div class="honors" style="display: flex;  margin-top:25px;  margin-bottom:50px">
+<section class="awards" style="max-width: 1000px; margin-left:100px;margin-right:170px;">
+ <span style="font-family:Apercu; font-size:20px; color:rgb(218, 162, 171)">SELECTED AWARDS
+ <span style="font-family:Apercu; font-size:12px; color:rgb(218, 162, 171)">(3/18)</span>
  </span>
- <div style="margin-left:200px; margin-top:20px; display: flex">
+ <div style="margin-top:20px; display: flex">
   <div style="color:rgb(218, 162, 171)">2019</div>
   <div style="margin-left:20px; font-size:14px;" >
     <h5 style ="margin-top:0px">Recognition Award</h5>
     <span style =" color:rgb(140, 140, 140); font-size:12px;" >Yum! Brands-Yum China, China </span>
   </div>
 </div>
-
- <div style="margin-left:200px; margin-top:20px; display: flex">
+ <div style=" margin-top:20px; display: flex">
   <div style="color:rgb(218, 162, 171)">2015</div>
   <div style="margin-left:20px; font-size:14px;" >
     <h5 style ="margin-top:0px">APD (Asian Packaging Design) Gold Award</h5>
     <span style =" color:rgb(140, 140, 140); font-size:12px;" >China, Korea, Taiwan, Tokyo </span>
   </div>
 </div>
-
- <div style="margin-left:200px; margin-top:20px; display: flex">
+ <div style=" margin-top:20px; display: flex">
   <div style="color:rgb(218, 162, 171)">2012</div>
   <div style="margin-left:20px; font-size:14px;" >
     <h5 style ="margin-top:0px">Gold Award, Eastern Star “Hong Kong Wing Fat Cup”  Design</h5>
     <span style =" color:rgb(140, 140, 140); font-size:12px;" >China </span>
   </div>
 </div>
-</div>
+</section>
 
 
-<div class="patents" style="margin-left:30px; max-width: 600px; margin-right:200px">
- <span style="margin-left:150px; font-family:Roboto; font-size:20px; color:rgb(218, 162, 171)">SELECTED COMMERCIAL PATENTS
- <span style="font-family:Roboto; font-size:12px; color:rgb(218, 162, 171)">(3/18)</span>
- </span>
+<section class="patents" style="margin-left:20px; max-width: 490px;  ">
+  <span style="font-family:Apercu; font-size:20px; color:rgb(218, 162, 171)">SELECTED COMMERCIAL PATENTS
+    <span style="font-family:Apercu; font-size:12px; color:rgb(218, 162, 171)">(4/37)</span>
+  </span>
 
-  <div style="margin-left:180px; margin-top:20px; font-size:14px;" >
+  <div style="margin-left:20px; margin-top:20px; font-size:14px;" >
     <h5 style ="margin-top:0px">Nan Wang, Packaging: Whitening & UV Protective Set, 2015, CN303327317S.</h5>
   </div>
-    <div style="margin-left:180px; margin-top:20px; font-size:14px;" >
+  <div style="margin-left:20px; margin-top:20px; font-size:14px;" >
     <h5 style ="margin-top:0px">Nan Wang, Packaging box: 3, 2016, CN303560646S.</h5>
   </div>
-  <div style="margin-left:180px; margin-top:20px; font-size:14px;" >
+  <div style="margin-left:20px; margin-top:20px; font-size:14px;" >
     <h5 style ="margin-top:0px">Nan Wang, Packaging: Herborist Ultra Hydrating & Moisturizing Set, 2014, CN303195583S.</h5>
   </div>
-    <div style="margin-left:180px; margin-top:20px; font-size:14px;" >
+  <div style="margin-left:20px; margin-top:20px; font-size:14px;" >
     <h5 style ="margin-top:0px"><span style="color:rgb(140, 140, 140); font-weight: normal">Huan Meng, </span>Nan Wang, <span style="color:rgb(140, 140, 140); font-weight: normal">Donglei Guo, Yunjie Han, </span>Packaging: Fresh Herb Cream Bottle Shape Series Design, 2014, CN303029101S.</h5>
   </div>
+</section>
 </div>
-</div>
+  
 
-<section id="projects" style="background-color: #f4f4f4;">
+<section id="projects" style="width=100%; background-color:rgba(180, 180, 180, 0.15)">
 <div class="posts">
   <div class="grid-xlarge">
     <h2 class="post_title">
@@ -293,5 +295,4 @@ body {
     <span class="cta__text">Let’s Waving</span>
   </a>
 </section>
-</body>
-</html>
+
