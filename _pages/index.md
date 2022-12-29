@@ -266,7 +266,7 @@ body {
   </div>
 </section>
 </div>
-  
+</div>
 
 <section id="projects" style="width=100%; background-color:rgba(180, 180, 180, 0.15)">
 <div class="posts">
