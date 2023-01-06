@@ -4,7 +4,7 @@ title: "Mastery, Learning/Specs Grading/Peer Review App"
 
 date: 2022-12-8
 description:
-image: assets/images/Mastery/11.png
+image: assets/images/Mastery/c-1.png
 highlight: 0
 author: Nan Wang
 tags:
@@ -23,7 +23,7 @@ Numerous Brandeis University classes have made use of the application.
 
 <div class="section-padding" align="center">
 <span>Home Page</span>
-<img source type="img/png" src="{{ "assets/images/Mastery/11.png" | relative_url }}"/>
+<img source type="img/png" src="{{ "assets/images/Mastery/c-1.png" | relative_url }}"/>
 </div>
 
 <div class="section-padding" align="center">

@@ -4,7 +4,7 @@ title: "Escaper, 3D A-frame VR Game"
 
 date: 2022-12-8
 description:
-image: assets/images/Escaper/Escaper.png
+image: assets/images/Escaper/c-1.png
 highlight: 0
 author: Nan Wang
 tags:
@@ -20,30 +20,30 @@ In this game, player discover clues, solve puzzles, and accomplish tasks in room
 </div>
 
 <div class="section-padding" align="center">
-<img source type="img/png" src="{{ "assets/images/Escaper/1.png" | relative_url }}"/>
+<img source type="img/png" src="{{ "assets/images/Escaper/c-1.png" | relative_url }}"/>
 </div>
 <div class="section-padding" align="center">
 <span>level 1</span>
-<img source type="img/png" src="{{ "assets/images/Escaper/Escaper.png" | relative_url }}"/>
+<img source type="img/png" src="{{ "assets/images/Escaper/c-2.png" | relative_url }}"/>
 </div>
 
 <div class="section-padding" align="center">
 <span>level 2</span>
-<img source type="img/png" src="{{ "assets/images/Escaper/4.png" | relative_url }}"/>
+<img source type="img/png" src="{{ "assets/images/Escaper/c-22.png" | relative_url }}"/>
 </div>
 
 <div class="section-padding" align="center">
 <span>level 3</span>
-<img source type="img/png" src="{{ "assets/images/Escaper/3.png" | relative_url }}"/>
+<img source type="img/png" src="{{ "assets/images/Escaper/c-3.png" | relative_url }}"/>
 </div>
 
 <div class="section-padding" align="center">
 <span>level 4</span>
-<img source type="img/png" src="{{ "assets/images/Escaper/44.png" | relative_url }}"/>
+<img source type="img/png" src="{{ "assets/images/Escaper/c-4.png" | relative_url }}"/>
 </div>
 
 <div class="section-padding" align="center">
-<img source type="img/png" src="{{ "assets/images/Escaper/2.png" | relative_url }}"/>
+<img source type="img/png" src="{{ "assets/images/Escaper/c-5.png" | relative_url }}"/>
 </div>
 
 
