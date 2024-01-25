@@ -4,7 +4,7 @@ title: "HERBORIST, 15th ANNIVERSARY SET"
 
 date: 2013-09-05
 description:
-image: assets/images/herborist_15/3.png
+image: assets/images/herborist_15/2.png
 highlight: 10
 author: Nan Wang
 tags:
@@ -12,7 +12,6 @@ tags:
 ---
 
 <div class="section-padding bg-white" align="center">
-
 
 The iconic buildings and city flowers of the six overseas international cities where Herborist is stationed are outlined with a fresh hand-painted style. Abundant use of colors, delicate line tracing, and the perfect presentation of city landmarks vividly portray a new world of oriental beauty created by Herborist.
 
@@ -37,7 +36,6 @@ Sale exceeded 100 million ¥
 <div class="section-padding" align="center">
 <img source type="img/jpg" src="{{ "assets/images/herborist_15/8.jpg" | relative_url }}"/>
 </div>
-
 
 <div class="section-padding" align="center">
 <img source type="img/png" src="{{ "assets/images/herborist_15/2.png" | relative_url }}"/>

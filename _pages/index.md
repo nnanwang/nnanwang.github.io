@@ -4,6 +4,7 @@ pagination:
   enabled: true
 permalink: /
 ---
+
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta charset="utf-8">
@@ -157,7 +158,7 @@ body {
   <div class="container right">
     <div class="content">
       <h5>Brandeis University, Teaching Assistant</h5>
-      <p style="font-size:12px">Sep 2022 - Dec 2022 </p>
+      <p style="font-size:12px">Sep 2022 - Dec 2023 </p>
     </div>
   </div>
   <div class="container right" >
@@ -246,7 +247,6 @@ body {
 </div>
 </section>
 
-
 <section class="patents" style="margin-left:20px; max-width: 490px;  ">
   <span style="font-family:Apercu; font-size:20px; color:rgb(218, 162, 171)">SELECTED COMMERCIAL PATENTS
     <span style="font-family:Apercu; font-size:12px; color:rgb(218, 162, 171)">(4/37)</span>
@@ -284,15 +284,14 @@ body {
 
       {% endfor %}
     </div>
+
   </div>
 
 </div>
 </section>
-
 
 <section id="waving" class="cta bg-black">
   <a class="cta__link" style="background-color: rgb(234, 204, 206)" href="{{ '/wl/' | prepend: site.baseurl }}">
     <span class="cta__text">Let’s Waving</span>
   </a>
 </section>
-
