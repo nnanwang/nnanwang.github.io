@@ -19,7 +19,7 @@ Explore the AI Image Assistant, a cutting-edge React Native Expo application des
 </div>
 
 <div class="section-padding" align="center">
-  <video controls autoplay>
+   <video controls autoplay muted>
     <source type="video/mp4" src="{{ "assets/images/AItist/GMT20231209-202701_Recording_1920x1080 (2).mp4" | relative_url }}">
   </video>
 </div>
